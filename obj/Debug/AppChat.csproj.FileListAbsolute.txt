@@ -1,0 +1,9 @@
+C:\Users\ayoub\source\repos\AppChat\AppChat\bin\Debug\AppChat.exe.config
+C:\Users\ayoub\source\repos\AppChat\AppChat\bin\Debug\AppChat.exe
+C:\Users\ayoub\source\repos\AppChat\AppChat\bin\Debug\AppChat.pdb
+C:\Users\ayoub\source\repos\AppChat\AppChat\obj\Debug\AppChat.Properties.Resources.resources
+C:\Users\ayoub\source\repos\AppChat\AppChat\obj\Debug\AppChat.csproj.GenerateResource.cache
+C:\Users\ayoub\source\repos\AppChat\AppChat\obj\Debug\AppChat.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\AppChat\AppChat\obj\Debug\AppChat.exe
+C:\Users\ayoub\source\repos\AppChat\AppChat\obj\Debug\AppChat.pdb
+C:\Users\ayoub\source\repos\AppChat\AppChat\obj\Debug\AppChat.Chat.resources
